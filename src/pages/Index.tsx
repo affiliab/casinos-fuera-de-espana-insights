@@ -247,7 +247,12 @@ const Index = () => {
               <p className="text-lg leading-relaxed">
                 Mira, voy a ser directo contigo. Llevo más de una década analizando casinos online y hay algo que 
                 muchas guías no te dicen: <strong>la regulación DGOJ, aunque bienintencionada, ha creado un mercado 
-                extremadamente limitado</strong> para el jugador español.
+                extremadamente limitado</strong> para el jugador español. si quieres descubrir las plataformas más fiables y con mejores ventajas, te recomiendo consultar nuestro 
+<a href="https://casinossinverificacion.com/casinos-online-fuera-de-espana/" target="_blank" rel="noopener">
+ranking completo de casinos online fuera de españa
+</a>, donde analizamos casinos europeos con retiros rápidos, bonos competitivos y seguridad garantizada.
+
+
               </p>
               
               <p className="leading-relaxed">
